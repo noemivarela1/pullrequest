@@ -1,3 +1,7 @@
 En un lugar de la Mancha
 de cuyo nombre
+<<<<<<< HEAD
 vivia un ingenioso hidalgo
+=======
+no quiero acordarme
+>>>>>>> fdf17bde26ea40b3aa4c131bb712c0d2b4b5661c
